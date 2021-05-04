@@ -15,3 +15,11 @@
 -->
 
 # binance-api-client
+## Usage
+required poetry 
+
+```
+git clone git@github.com:Wild-Family/binance-api-client.git
+poetry install
+poetry run python3 src/main.py
+```
