@@ -16,7 +16,7 @@
 
 # binance-api-client
 ## Usage
-required poetry 
+required [poetry](https://python-poetry.org/)
 
 ```
 git clone git@github.com:Wild-Family/binance-api-client.git
